@@ -4,12 +4,12 @@
 
 
 -------------------------------Abertos
-#EXTINF:-1 group-title="Abertos" tvg-id="band.sao.paulo.br" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/band.png",Band
+#EXTINF:-1 group-title="Abertos" tvg-id="band.sao.paulo.br" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/Band.png",band
 http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/15231.ts
 #EXTINF:-1 group-title="Abertos" tvg-id="globo.sao.paulo.br" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/globo.png",Globo
-http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/48530.ts
+http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/134.ts
 #EXTINF:-1 group-title="Abertos" tvg-id="globo.minas.gerais.br" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/globo.png",Globo Minas
-http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/48536.ts
+http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/131.ts
 #EXTINF:-1 group-title="Abertos" tvg-id="redetv.br" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/redetv.png",Rede TV
 http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/106.ts
 #EXTINF:-1 group-title="Abertos" tvg-id="sbt.br" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/sbt.png",SBT
@@ -44,8 +44,6 @@ http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/14412.ts
 http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/14411.ts
 #EXTINF:-1 group-title="Infantis" tvg-id="tooncast.br" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/tooncast.png",Tooncast
 http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/14422.ts
-#EXTINF:-1 group-title="Infantis" tvg-id=" bloomberg.br" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/bloomberg.png",Bloomberg
-http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/14564.ts
 #EXTINF:-1 group-title="Infantis" tvg-id="ratimbum.br" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/ratibum.png",RA TI BUM
 http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/15214.ts
 #EXTINF:-1 group-title="Infantis" tvg-id="zoomoo.br" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/zoomoo.png",ZOOMOO
@@ -56,15 +54,6 @@ http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/14421.ts
 http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/15214.ts
 
 
-#EXTINF:-1 "6075","name":"GLOOB","url":"http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/14420.ts","icon":"https://1.bp.blogspot.com/-SGagtz50pQ4/YKqkwQAKHgI/AAAAAAAAEZc/xtlck-qLDic1wpYfZ-2QFc5F_PTgQ-CfQCLcBGAsYHQ/s517/GLOOB.png","streamer":null,"epg_name":"gloob.br" 
-#EXTINF:-1 "6116","name":"NICK JR","url":"http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/14412.ts","icon":"https://1.bp.blogspot.com/-t8cjHlHrfkY/YKqk6VbIBrI/AAAAAAAAEbk/d_kgPJbTJv4yGXHoKQ8-nowsoIH7-boUgCLcBGAsYHQ/s517/NICKJR.png","streamer":null,"epg_name":"gloob.brnickjr.br" 
-#EXTINF:-1 "6117","name":"NICKELODEON","url":"http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/14411.ts","icon":"https://1.bp.blogspot.com/-VIEGkTkeiLY/YKqk6dC4IHI/AAAAAAAAEbg/4Lrk2jKZznYJW0NTL6Yd1W3hTDS9m7_lACLcBGAsYHQ/s517/NICK.png","streamer":null,"epg_name":"gloob.brnickjr.brnickelodeon.br" 
-#EXTINF:-1 "6148","name":"TOONCAST","url":"http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/14422.ts","icon":"https://1.bp.blogspot.com/-Byn_X0smr-I/YKqlQ6o3NhI/AAAAAAAAEfg/w5oUGSDCvrIfURLXBpdgIcc1Vzc_zPhKACLcBGAsYHQ/s517/TOINCAST.png","streamer":null,"epg_name":"gloob.brnickjr.brnickelodeon.brtooncast.br" 
-#EXTINF:-1 "6169","name":"BLOOMBERG","url":"http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/14564.ts","icon":"https://1.bp.blogspot.com/-CHFmvLzFA3Y/YKqkZGKSjOI/AAAAAAAAEVs/va12B75teUY8PW3IyW6peOMjjIGmIzfiwCLcBGAsYHQ/s517/BLOOMBERG.png","streamer":null,"epg_name":"gloob.brnickjr.brnickelodeon.brtooncast.brbloomberg.br" 
-#EXTINF:-1 "6175","name":"RA TIM BUM","url":"http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/15214.ts","icon":"https://1.bp.blogspot.com/-scqaXJqRLv8/YKqk_LeovFI/AAAAAAAAEcY/3XxMm7-AtJMC_lGpe565QWpOB2jlzQVygCLcBGAsYHQ/s517/RATIMBUM.png","streamer":null,"epg_name":"gloob.brnickjr.brnickelodeon.brtooncast.brbloomberg.brratimbum.br" 
-#EXTINF:-1 "6176","name":"ZOOMOO","url":"http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/15217.ts","icon":"https://1.bp.blogspot.com/-umvfoXgdwXg/YKqlXx1_I-I/AAAAAAAAEg0/jdr38_ssfqY3EC6El6ltmT77yk_n8vZagCLcBGAsYHQ/s517/ZOOMOO.png","streamer":null,"epg_name":"gloob.brnickjr.brnickelodeon.brtooncast.brbloomberg.brratimbum.brzoomoo.br" 
-#EXTINF:-1 "14000","name":"GLOOBINHO","url":"http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/14421.ts","icon":"https://1.bp.blogspot.com/-9OLf2WRc8e8/YKqkwoCX-UI/AAAAAAAAEZY/RTExGd5Tqt4nEBqP1OQl7J0SUhGGzOmrQCLcBGAsYHQ/s517/GLOOBINHO.png","streamer":"10","epg_name":"gloob.brnickjr.brnickelodeon.brtooncast.brbloomberg.brratimbum.brzoomoo.brgloobinho.br" 
-#EXTINF:-1 "14001","name":"RETRO CARTOON","url":"http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/15214.ts","icon":"https://1.bp.blogspot.com/-BWYCBd5jQ20/YKqlCzv1ihI/AAAAAAAAEc4/gtuXpgjycscuuXgrVpouJrb888hWenR8ACLcBGAsYHQ/s517/RETROCARTOON.png","streamer":"10","epg_name":""} 
 
 -------------------------------Esportes
 #EXTINF:-1 "6007","name":"BANDSPORTS","url":"http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/14364.ts","icon":"https://1.bp.blogspot.com/-wSgBKuin74s/YKqkXd3sJzI/AAAAAAAAEVY/QNkcBrnMNzQV2vcegCKADex6hJWPJf-XQCLcBGAsYHQ/s517/BANDSPORTS.png","streamer":"10","epg_name":"bandsports.br" 
@@ -110,7 +99,8 @@ http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/15214.ts
 #EXTINF:-1 "6119","name":"RECORDNEWS","url":"http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/136.ts","icon":"https://1.bp.blogspot.com/-uthSK2drST0/YKqk_a1lPYI/AAAAAAAAEcc/Bd9Ny6Qb6jARt3_8CRd7NkyH5lzxemEKgCLcBGAsYHQ/s517/RECNEWS.png","streamer":null,"epg_name":"recordnews.br" 
 #EXTINF:-1 "6167","name":"CNN BRASIL HD","url":"http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/150.ts","icon":"https://1.bp.blogspot.com/-aZ_F2J6C4Ow/YKqkgjHKRkI/AAAAAAAAEW0/kXgCIMl2oS4vMZ1LTaGXkTBtQmYJoAYOgCLcBGAsYHQ/s517/CNN%2BBR.png","streamer":null,"epg_name":"cnnbrasil.br" 
 #EXTINF:-1 "6168","name":"RECORDNEWS HD","url":"http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/136.ts","icon":"https://1.bp.blogspot.com/-uthSK2drST0/YKqk_a1lPYI/AAAAAAAAEcc/Bd9Ny6Qb6jARt3_8CRd7NkyH5lzxemEKgCLcBGAsYHQ/s517/RECNEWS.png","streamer":null,"epg_name":"recordnews.br" 
-
+#EXTINF:-1 group-title="Noticias" tvg-id=" bloomberg.br" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/bloomberg.png",Bloomberg
+http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/14564.ts
 -------------------------------Filmes e Series
 #EXTINF:-1 "6001","name":"AMC","url":"http://50.7.34.178:2095/live/4K_1879a20eb912/MqoGXiGKBad0/43.ts","icon":"https://1.bp.blogspot.com/-cHptx0MmJug/YKqkT7c2bdI/AAAAAAAAEU8/AymB1NpVsYYoMl2t9iaCTD-fSMoWxhRCgCLcBGAsYHQ/s517/AMC.png","streamer":"10","epg_name":"amc.br" 
 #EXTINF:-1 "6004","name":"AXN","url":"http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/14398.ts","icon":"https://1.bp.blogspot.com/-Uf1AyLi9XcM/YKqkVNdCMnI/AAAAAAAAEVI/2QVfHheZiQETfY6gDCU3ET1eXlEB5451ACLcBGAsYHQ/s517/AXN.png","streamer":"10","epg_name":"axn.br" 
