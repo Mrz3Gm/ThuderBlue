@@ -28,26 +28,22 @@ http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/135.ts
 http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/14418.ts
 #EXTINF:-1 group-title="Infantis" tvg-id="cartoon.network.br" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/cartoonnetwork.png",Cartoon Network
 http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/14417.ts
-#EXTINF:-1 group-title="Infantis" tvg-id="discovery.kids.br" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/discoverykids.png",Discovery Kids
+#EXTINF:-1 group-title="Infantis" tvg-id="discovery.kids.br" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/discoveykids.png",Discovery Kids
 http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/14415.ts
 #EXTINF:-1 group-title="Infantis" tvg-id="disney.br" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/disneychannel.png",Disney 
 http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/14413.ts
 #EXTINF:-1 group-title="Infantis" tvg-id="disney.junior.br" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/disneyjr.png",Disney Jr
 http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/14414.ts
 #EXTINF:-1 group-title="Infantis" tvg-id="disney.xd.br" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/disneyxd.png",Disney XD
-http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/108.ts
+http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/48567.ts
 #EXTINF:-1 group-title="Infantis" tvg-id="gloob.br" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/gloob.png",Gloob
 http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/14420.ts
 #EXTINF:-1 group-title="Infantis" tvg-id="nick.jr.br" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/nickjr.png",Nick Jr
 http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/14412.ts
-#EXTINF:-1 group-title="Infantis" tvg-id="nickelodeon.br" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/nickelodeon.png",Nickelodeon
+#EXTINF:-1 group-title="Infantis" tvg-id="nickelodeon.br" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/nick.png",Nickelodeon
 http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/14411.ts
 #EXTINF:-1 group-title="Infantis" tvg-id="tooncast.br" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/tooncast.png",Tooncast
 http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/14422.ts
-#EXTINF:-1 group-title="Infantis" tvg-id="ratimbum.br" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/ratibum.png",RA TI BUM
-http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/15214.ts
-#EXTINF:-1 group-title="Infantis" tvg-id="zoomoo.br" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/zoomoo.png",ZOOMOO
-http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/15217.ts
 #EXTINF:-1 group-title="Infantis" tvg-id="gloobinho.br" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/gloobinho.png",Gloobinho
 http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/14421.ts
 #EXTINF:-1 group-title="Infantis" tvg-id=":" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/retro.png",Retro Cartoon
