@@ -4,7 +4,7 @@
 
 
 -------------------------------Abertos
-#EXTINF:-1 group-title="Abertos" tvg-id="band.sao.paulo.br" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/Band.png",band
+#EXTINF:-1 group-title="Abertos" tvg-id="band.sao.paulo.br" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/band.png",Band
 http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/15231.ts
 #EXTINF:-1 group-title="Abertos" tvg-id="globo.sao.paulo.br" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/globo.png",Globo
 http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/48530.ts
