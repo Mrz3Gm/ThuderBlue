@@ -2,24 +2,23 @@
 
 
 
-
 -------------------------------Abertos
 #EXTINF:-1 group-title="Abertos" tvg-id="band.sao.paulo.br" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/band.png",Band
 http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/15231.ts
-#EXTINF:-1 group-title="Abertos" tvg-id="globo.sao.paulo.br" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/globo.png",Globo
+#EXTINF:-1 group-title="Abertos" tvg-id="globo.sao.paulo.br" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/globo.png",GLOBO SP
 http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/48530.ts
-#EXTINF:-1 group-title="Abertos" tvg-id="globo.minas.gerais.br" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/globo.png",Globo Minas
+#EXTINF:-1 group-title="Abertos" tvg-id="GLOBO MINAS" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/globo.png",GLOBO MINAS
 http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/48536.ts
 #EXTINF:-1 group-title="Abertos" tvg-id="redetv.br" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/redetv.png",Rede TV
-http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/106.ts
+http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/48553.ts
 #EXTINF:-1 group-title="Abertos" tvg-id="sbt.br" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/sbt.png",SBT
-http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/110.ts
+http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/48552.ts
 #EXTINF:-1 group-title="Abertos" tvg-id="recordtv.minas.gerais.br" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/record.png",Record BH
 http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/14571.ts 
 #EXTINF:-1 group-title="Abertos" tvg-id="recordtv.minas.gerais.br" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/record.png",Record MG
 http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/15054.ts
 #EXTINF:-1 group-title="Abertos" tvg-id="recordtv.sao.paulo.br" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/record.png",Record SP
-http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/135.ts
+http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/14566.ts
 
 
 -------------------------------Infantis
@@ -97,11 +96,20 @@ http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/15214.ts
 #EXTINF:-1 "6168","name":"RECORDNEWS HD","url":"http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/136.ts","icon":"https://1.bp.blogspot.com/-uthSK2drST0/YKqk_a1lPYI/AAAAAAAAEcc/Bd9Ny6Qb6jARt3_8CRd7NkyH5lzxemEKgCLcBGAsYHQ/s517/RECNEWS.png","streamer":null,"epg_name":"recordnews.br" 
 #EXTINF:-1 group-title="Noticias" tvg-id=" bloomberg.br" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/bloomberg.png",Bloomberg
 http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/14564.ts
+
 -------------------------------Filmes e Series
+#EXTINF:-1 group-title="Filmes e Series" tvg-id="star.br" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/starchannel.png",STAR CHANNEL
+http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/14379.ts
+#EXTINF:-1 group-title="Filmes e Series" tvg-id="star.br" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/starhits.png",STAR Hits
+http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/14377.ts
+#EXTINF:-1 group-title="Filmes e Series" tvg-id="amc.br" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/amc.png",AMC
+http://50.7.34.155:2200/BR/AMC_HD-br/tracks-v1a1/mono.m3u8?token=RED_fJnOQPPBwmZlbob7HW-Okw%3D%3D%2C1634646366.1260625077
+#EXTINF:-1 group-title="Filmes e Series" tvg-id="Telecine Premium HD" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/tcpremium.png",TC PREMIUM
+url":"http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/14383.ts
+
 #EXTINF:-1 "6001","name":"AMC","url":"http://50.7.34.178:2095/live/4K_1879a20eb912/MqoGXiGKBad0/43.ts","icon":"https://1.bp.blogspot.com/-cHptx0MmJug/YKqkT7c2bdI/AAAAAAAAEU8/AymB1NpVsYYoMl2t9iaCTD-fSMoWxhRCgCLcBGAsYHQ/s517/AMC.png","streamer":"10","epg_name":"amc.br" 
 #EXTINF:-1 "6004","name":"AXN","url":"http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/14398.ts","icon":"https://1.bp.blogspot.com/-Uf1AyLi9XcM/YKqkVNdCMnI/AAAAAAAAEVI/2QVfHheZiQETfY6gDCU3ET1eXlEB5451ACLcBGAsYHQ/s517/AXN.png","streamer":"10","epg_name":"axn.br" 
 #EXTINF:-1 "6011","name":"CINEMAX","url":"http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/14396.ts","icon":"https://1.bp.blogspot.com/-uKMmsD4ZZec/YKqke3Kqg0I/AAAAAAAAEWg/MNiIejrpmaMzyXA-FuV-OzYPftWBI57FwCLcBGAsYHQ/s517/CINEMAX.png","streamer":"10","epg_name":"cinemax.br" 
-#EXTINF:-1 "13739","name":"STAR CHANNEL","url":"http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/14379.ts","icon":"https://1.bp.blogspot.com/-j0UnXV6dABA/YKqlK9KBeuI/AAAAAAAAEeI/C3zMyMXV634Kb14DsDzNXJx5UXKDOTEAgCLcBGAsYHQ/s517/STARCHANNEL.png","streamer":"null","epg_name":"fox.br" 
 #EXTINF:-1 "14007","name":"STAR LIFE","url":"http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/14380.ts","icon":"https://1.bp.blogspot.com/-ru6VryQvKYI/YKqlLE0xWBI/AAAAAAAAEeQ/fGGpJOLq3JQZfT3xm8nZ5K8ImP-Xj65sACLcBGAsYHQ/s517/STARLIFE.png","streamer":null,"epg_name":"foxlife.br" 
 #EXTINF:-1 "14008","name":"STAR HITS","url":"http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/14377.ts","icon":"https://1.bp.blogspot.com/-jZD0cZ1vadY/YKqlKdwLFPI/AAAAAAAAEeE/RAblwNyZ0k8FLBnQaHnhtWpyjbRPfbHTQCLcBGAsYHQ/s517/STARHITS.png","streamer":null,"epg_name":"foxpremium1.br"} 
 #EXTINF:-1 "6059","name":"FX","url":"http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/14381.ts","icon":"https://1.bp.blogspot.com/-OIGq00_3WIo/YKqkuhXYA9I/AAAAAAAAEZA/a9Uo77wbod01ym2YpQK_cK9oroIWffbwwCLcBGAsYHQ/s517/FX.png","streamer":"10","epg_name":"fx.br" 
@@ -110,7 +118,6 @@ http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/14564.ts
 #EXTINF:-1 "6131","name":"STUDIO UNIVERSAL","url":"http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/14406.ts","icon":"https://1.bp.blogspot.com/-811rdw1nGOg/YKqlLitOKgI/AAAAAAAAEeU/cEl7jZzzQhYEtBPNLz3zdZ0rEkprqM_yQCLcBGAsYHQ/s517/STUDIO.png","streamer":null,"epg_name":"studiouniversal.br" 
 #EXTINF:-1 "6133","name":"TC FUN","url":"http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/14386.ts","icon":"https://1.bp.blogspot.com/-RntHPuN_k4s/YKqlNMDxD5I/AAAAAAAAEes/3f0zDBL74Qg2BnWRsBj5UGbJDHZvrx2BgCLcBGAsYHQ/s517/TCFUN.png","streamer":null,"epg_name":"telecinefun.br" 
 #EXTINF:-1 "6134","name":"TC PIPOCA","url":"http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/14384.ts","icon":"https://1.bp.blogspot.com/-Z-JTjwiDhQQ/YKqlN6F-urI/AAAAAAAAEe0/qtCEOkS-4ywsTTGrcM-KkIQUBn-2ZfhAwCLcBGAsYHQ/s517/TCPIPOCA.png","streamer":"10","epg_name":"telecinepipoca.br" 
-#EXTINF:-1 "6135","name":"TC PREMIUM","url":"http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/14383.ts","icon":"https://1.bp.blogspot.com/-mR75mlZkITc/YKqlOCiUTBI/AAAAAAAAEe4/EOvPYDs-7bQJNF-PgOw1go3H8yeY_aeXACLcBGAsYHQ/s517/TCPREMIUM.png","streamer":null,"epg_name":"telecinepremium.br" 
 #EXTINF:-1 "6136","name":"TC TOUCH","url":"http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/14385.ts","icon":"https://1.bp.blogspot.com/-1miKlwYgyEo/YKqlOdwwa3I/AAAAAAAAEe8/UGPRHRaKyNkWQBYw0bH99FXACXA4ZQWxQCLcBGAsYHQ/s517/TCTOUCH.png","streamer":null,"epg_name":"telecinetouch.br" 
 #EXTINF:-1 "6137","name":"TNT","url":"http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/14374.ts","icon":"https://1.bp.blogspot.com/-9QZlvN7P_88/YKqlPqi718I/AAAAAAAAEfM/CkUHQoQSddosAyd6Euy3b_cVEUg3YOWcQCLcBGAsYHQ/s517/TNT.png","streamer":null,"epg_name":"tnt.br" 
 #EXTINF:-1 "6138","name":"TNT SERIES","url":"http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/14375.ts","icon":"https://1.bp.blogspot.com/-eTnL6h0M_iQ/YKqlPgKa_3I/AAAAAAAAEfQ/xw2Qqe2St3cicroDlZ98njvQfLKqCEz5ACLcBGAsYHQ/s517/TNTSERIES.png","streamer":null,"epg_name":"tntseries.br" 
@@ -170,7 +177,7 @@ http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/14559.ts
 http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/14561.ts
 #EXTINF:-1 group-title="Mais Canais" tvg-id="cancao.nova.br" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/cancaonova.png",CANÇÃO NOVA
 http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/14972.ts 
-#EXTINF:-1 group-title="Mais Canais" tvg-id="tv.aparecida.br" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/aparecida.png",TV APARECIDA
+#EXTINF:-1 group-title="Mais Canais" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/aparecida.png",TV Aparecida HD
 http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/15065.ts 
 
 -------------------------------Adultos
