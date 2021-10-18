@@ -102,8 +102,8 @@ http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/14564.ts
 http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/14379.ts
 #EXTINF:-1 group-title="Filmes e Series" tvg-id="star.br" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/starhits.png",STAR Hits
 http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/14377.ts
-#EXTINF:-1 group-title="Filmes e Series" tvg-id="amc.br" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/amc.png",AMC2
-http://50.7.34.155:2200/BR/AMC_HD-br/tracks-v1a1/mono.m3u8?token=RED_fJnOQPPBwmZlbob7HW-Okw%3D%3D%2C1634646366.1260625077
+#EXTINF:-1 group-title="Filmes e Series" tvg-id="amc.br" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/cinemax.png",Cinemax HD
+http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/14396.ts
 #EXTINF:-1 group-title="Filmes e Series" tvg-id="Telecine Premium HD" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/tcpremium.png",Telecine Premium HD ³
 http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/14383.ts
 
