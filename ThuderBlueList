@@ -1,51 +1,50 @@
 #EXTM3U
 
-#EXTM3U x-tvg-url="http://epgontvhdbr.com/index.xml"
 
 -------------------------------Abertos
-#EXTINF:-1 group-title="Abertos" tvg-id="band.sao.paulo.br" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/band.png",Band HD
+#EXTINF:-1 group-title="Abertos" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/band.png",Band HD
 http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/15231.ts
-#EXTINF:-1 group-title="Abertos" tvg-id="globo.sao.paulo.br" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/globo.png",GLOBO SP
+#EXTINF:-1 group-title="Abertos" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/globo.png",GLOBO SP
 http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/48530.ts
-#EXTINF:-1 group-title="Abertos" tvg-id="GLOBO MINAS" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/globo.png",GLOBO MINAS
+#EXTINF:-1 group-title="Abertos" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/globo.png",GLOBO MINAS
 http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/48536.ts
-#EXTINF:-1 group-title="Abertos" tvg-id="redetv.br" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/redetv.png",Rede TV
+#EXTINF:-1 group-title="Abertos" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/redetv.png",RedeTV
 http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/48553.ts
-#EXTINF:-1 group-title="Abertos" tvg-id="sbt.br" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/sbt.png",SBT
+#EXTINF:-1 group-title="Abertos" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/sbt.png",SBT
 http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/48552.ts
-#EXTINF:-1 group-title="Abertos" tvg-id="recordtv.minas.gerais.br" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/record.png",Record BH
+#EXTINF:-1 group-title="Abertos" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/record.png",Record BH
 http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/14571.ts 
-#EXTINF:-1 group-title="Abertos" tvg-id="recordtv.minas.gerais.br" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/record.png",Record MG
+#EXTINF:-1 group-title="Abertos" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/record.png",Record MG
 http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/15054.ts
-#EXTINF:-1 group-title="Abertos" tvg-id="recordtv.sao.paulo.br" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/record.png",Record SP
+#EXTINF:-1 group-title="Abertos" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/record.png",Record SP
 http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/14566.ts
 
 
 -------------------------------Infantis
 
-#EXTINF:-1 group-title="Infantis" tvg-id="boomerang.br" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/boomerang.png",Boomerang
+#EXTINF:-1 group-title="Infantis" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/boomerang.png",Boomerang HD ³
 http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/14418.ts
-#EXTINF:-1 group-title="Infantis" tvg-id="cartoon.network.br" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/cartoonnetwork.png",Cartoon HD ³
+#EXTINF:-1 group-title="Infantis" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/cartoonnetwork.png",Cartoon HD ³
 http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/14417.ts
-#EXTINF:-1 group-title="Infantis" tvg-id="discovery.kids.br" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/discoveykids.png",Discovery Kids
+#EXTINF:-1 group-title="Infantis" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/discoveykids.png",Discovery Kids HD ³
 http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/14415.ts
-#EXTINF:-1 group-title="Infantis" tvg-id="disney.br" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/disneychannel.png",Disney 
+#EXTINF:-1 group-title="Infantis" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/disneychannel.png",Disney Channel HD ³
 http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/14413.ts
-#EXTINF:-1 group-title="Infantis" tvg-id="disney.junior.br" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/disneyjr.png",Disney Jr
+#EXTINF:-1 group-title="Infantis" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/disneyjr.png",Disney Jr
 http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/14414.ts
-#EXTINF:-1 group-title="Infantis" tvg-id="disney.xd.br" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/disneyxd.png",Disney XD
+#EXTINF:-1 group-title="Infantis" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/disneyxd.png",Disney XD
 http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/48567.ts
-#EXTINF:-1 group-title="Infantis" tvg-id="gloob.br" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/gloob.png",Gloob
+#EXTINF:-1 group-title="Infantis" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/gloob.png",Gloob
 http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/14420.ts
-#EXTINF:-1 group-title="Infantis" tvg-id="nick.jr.br" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/nickjr.png",Nick Jr
+#EXTINF:-1 group-title="Infantis" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/nickjr.png",Nick Jr
 http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/14412.ts
-#EXTINF:-1 group-title="Infantis" tvg-id="nickelodeon.br" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/nick.png",Nickelodeon
+#EXTINF:-1 group-title="Infantis" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/nick.png",Nickelodeon
 http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/14411.ts
-#EXTINF:-1 group-title="Infantis" tvg-id="tooncast.br" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/tooncast.png",Tooncast
+#EXTINF:-1 group-title="Infantis" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/tooncast.png",Tooncast
 http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/14422.ts
-#EXTINF:-1 group-title="Infantis" tvg-id="gloobinho.br" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/globinho.png",Gloobinho
+#EXTINF:-1 group-title="Infantis" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/globinho.png",Gloobinho
 http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/14421.ts
-#EXTINF:-1 group-title="Infantis" tvg-id=":" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/retrocartoon.png",Retro Cartoon
+#EXTINF:-1 group-title="Infantis" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/retrocartoon.png",Retro Cartoon
 http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/15214.ts
 
 
@@ -59,11 +58,11 @@ http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/15214.ts
 http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/14564.ts
 
 -------------------------------Filmes e Series
-#EXTINF:-1 group-title="Filmes e Series" tvg-id="star.br" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/starchannel.png",STAR CHANNEL
+#EXTINF:-1 group-title="Filmes e Series" tvg-id="star.br" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/starchannel.png",STAR Channel
 http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/14379.ts
 #EXTINF:-1 group-title="Filmes e Series" tvg-id="star.br" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/starhits.png",STAR Hits
 http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/14377.ts
-#EXTINF:-1 group-title="Filmes e Series" tvg-id="amc.br" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/cinemax.png",Cinemax HD
+#EXTINF:-1 group-title="Filmes e Series" tvg-id="amc.br" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/cinemax.png",Cinemax HD ³
 http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/14396.ts
 #EXTINF:-1 group-title="Filmes e Series" tvg-id="Telecine Premium HD" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/tcpremium.png",Telecine Premium HD ³
 http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/14383.ts
