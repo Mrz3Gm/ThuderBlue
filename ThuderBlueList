@@ -100,8 +100,6 @@ http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/14379.ts
 #EXTINF:-1 group-title="Filmes e Series" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/starchannel.png",Star Channel
 http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/14379.ts
 #EXTINF:-1 group-title="Filmes e Series" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/starchannel.png",Star Channel
-http://srv.tvprodigital.net/live/anderson11/11anderson/6122.m3u8
-#EXTINF:-1 group-title="Filmes e Series" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/starchannel.png",Star Channel
 http://pablo.mihoralocal.org/STREAM_8377/mpegts?token=N3TTTwZ9aqMhO3E6d0oCtiP8CNGslfxO3nBdWYgY1Y01VyVLVpmlAlqlQqvsesttS4J
 
 #EXTINF:-1 group-title="Filmes e Series" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/starlife.png",Star Life
