@@ -25,7 +25,7 @@ http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/14566.ts
 
 #EXTINF:-1 group-title="Infantis" tvg-id="boomerang.br" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/boomerang.png",Boomerang
 http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/14418.ts
-#EXTINF:-1 group-title="Infantis" tvg-id="cartoon.network.br" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/cartoonnetwork.png",Cartoon Network
+#EXTINF:-1 group-title="Infantis" tvg-id="cartoon.network.br" x-tvg-url="http://epgontvhdbr.com/index.xml tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/cartoonnetwork.png",Cartoon HD ³
 http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/14417.ts
 #EXTINF:-1 group-title="Infantis" tvg-id="discovery.kids.br" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/discoveykids.png",Discovery Kids
 http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/14415.ts
