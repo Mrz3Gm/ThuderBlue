@@ -58,53 +58,86 @@ http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/14564.ts
 
 -------------------------------Filmes e Series
 
-#EXTINF:-1 group-title="Filmes e Series" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/cinemax.png",Cinemax
-http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/14396.ts
 #EXTINF:-1 group-title="Filmes e Series" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/tcpremium.png",Telecine Premium
 http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/14383.ts
 #EXTINF:-1 group-title="Filmes e Series" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/tcaction.png",Telecine Action
-#EXTINF:-1 group-title="Filmes e Series" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/tcpipoca.png",
+http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/14382.ts
+#EXTINF:-1 group-title="Filmes e Series" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/tcpipoca.png",Telecine Pipoca
+http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/14384.ts
 #EXTINF:-1 group-title="Filmes e Series" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/tctouch.png",Telecine Touch
+http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/14385.ts
 #EXTINF:-1 group-title="Filmes e Series" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/tcfun.png",Telecine Fun
+http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/14386.ts
 #EXTINF:-1 group-title="Filmes e Series" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/tccult.png",Telecine Cult
+http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/14387.ts
 #EXTINF:-1 group-title="Filmes e Series" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/hbo.png",HBO
+http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/14388.ts
 #EXTINF:-1 group-title="Filmes e Series" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/hbo2.png",HBO 2
+http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/14389.ts
 #EXTINF:-1 group-title="Filmes e Series" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/hboplus.png",HBO +
+http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/14390.ts
 #EXTINF:-1 group-title="Filmes e Series" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/hbosignature.png",HBO Signature
+http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/14391.ts
 #EXTINF:-1 group-title="Filmes e Series" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/hbofamily.png",HBO Family
-#EXTINF:-1 group-title="Filmes e Series" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/hbopop.png",HBO Pop
+http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/14392.ts
+#EXTINF:-1 group-title="Filmes e Series" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/hbopop.png",HBO Mundi
+http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/14393.ts
+#EXTINF:-1 group-title="Filmes e Series" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/hbopop.png",HBO HBO Pop
+http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/14394.ts
 #EXTINF:-1 group-title="Filmes e Series" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/hboxtreme.png",HBO Xtreme
+http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/14395.ts
 #EXTINF:-1 group-title="Filmes e Series" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/tnt.png",TNT
+http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/14375.ts
 #EXTINF:-1 group-title="Filmes e Series" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/tntseries.png",TNT Series
+http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/14377.ts
 #EXTINF:-1 group-title="Filmes e Series" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/starhits.png",Star Hits
 http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/14377.ts
 #EXTINF:-1 group-title="Filmes e Series" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/starhits2.png",Star Hits 2
+http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/14379.ts
 #EXTINF:-1 group-title="Filmes e Series" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/starchannel.png",Star Channel
 http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/14379.ts
 #EXTINF:-1 group-title="Filmes e Series" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/starlife.png",Star Life
+http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/14381.ts
 #EXTINF:-1 group-title="Filmes e Series" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/fx.png",FX
+http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/14388.ts
 #EXTINF:-1 group-title="Filmes e Series" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/cinemax.png",Cinemax
+http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/14396.ts
 #EXTINF:-1 group-title="Filmes e Series" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/space.png",Space
+http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/14376.ts
 #EXTINF:-1 group-title="Filmes e Series" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/canalbrasil.png",Canal Brasil
+http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/14397.ts
 #EXTINF:-1 group-title="Filmes e Series" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/axn.png",AXN
-#EXTINF:-1 group-title="Filmes e Series" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/a&e.png",A&E
-#EXTINF:-1 group-title="Filmes e Series" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/sony.png",Sony Channel
-#EXTINF:-1 group-title="Filmes e Series" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/syfy.png",Syfy
-#EXTINF:-1 group-title="Filmes e Series" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/megapix.png",egapix
+http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/14398.ts
+#EXTINF:-1 group-title="Filmes e Series" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/megapix.png",Megapix
+http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/14401.ts
 #EXTINF:-1 group-title="Filmes e Series" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/paramount.png",Paramount Channel
+http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/14402.ts
 #EXTINF:-1 group-title="Filmes e Series" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/universaltv.png",Universal TV
+http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/14406.ts
 #EXTINF:-1 group-title="Filmes e Series" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/warnerchannel.png",Warner Channel
-#EXTINF:-1 group-title="Filmes e Series" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/comedycentral.png",Comedy Central
+http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/14404.ts
 #EXTINF:-1 group-title="Filmes e Series" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/studiouniversal.png",Studio Universal
-#EXTINF:-1 group-title="Filmes e Series" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/primebox.png",Prime Box Brazil
-#EXTINF:-1 group-title="Filmes e Series" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/playtv.png",WA TV
+http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/14406.ts
 #EXTINF:-1 group-title="Filmes e Series" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/tcm.png",TCM
-
+http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/14409.ts
 
 -------------------------------Documentarios
 #EXTINF:-1 group-title="Documentarios" tvg-id="discovery.br" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/discoverychannel.png",Discovery Channel
 http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ//14432.ts
+
 -------------------------------Variedades
+#EXTINF:-1 group-title="Variedades" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/a&e.png",A&E
+http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/14408.ts
+#EXTINF:-1 group-title="Variedades" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/sony.png",Sony Channel
+http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/14399.ts
+#EXTINF:-1 group-title="Variedades" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/syfy.png",Syfy
+http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/14400.ts
+#EXTINF:-1 group-title="Variedades" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/comedycentral.png",Comedy Central
+http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/14405.ts
+#EXTINF:-1 group-title="Variedades" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/primebox.png",Prime Box Brazil
+http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/14407.ts
+#EXTINF:-1 group-title="Variedades" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/playtv.png",WA TV
+http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/14410.ts
 
 -------------------------------Musica e Entreterimento
 
