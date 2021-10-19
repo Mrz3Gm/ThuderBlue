@@ -1,42 +1,41 @@
 #EXTM3U
 
-
 -------------------------------Abertos
-#EXTINF:-1 group-title="Abertos" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/band.png",Band HD
+#EXTINF:-1 group-title="Abertos" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/band.png",Band
 http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/15231.ts
-#EXTINF:-1 group-title="Abertos" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/globo.png",GLOBO SP
+#EXTINF:-1 group-title="Abertos" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/globo.png",Globo SP
 http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/48530.ts
-#EXTINF:-1 group-title="Abertos" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/globo.png",GLOBO MINAS
+#EXTINF:-1 group-title="Abertos" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/globo.png",Globo Minas
 http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/48536.ts
-#EXTINF:-1 group-title="Abertos" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/redetv.png",RedeTV
+#EXTINF:-1 group-title="Abertos" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/redetv.png",RedeTV!
 http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/48553.ts
 #EXTINF:-1 group-title="Abertos" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/sbt.png",SBT
 http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/48552.ts
 #EXTINF:-1 group-title="Abertos" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/record.png",Record BH
 http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/14571.ts 
-#EXTINF:-1 group-title="Abertos" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/record.png",Record MG
+#EXTINF:-1 group-title="Abertos" tvg-id="record.minas.br" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/record.png",Record MG
 http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/15054.ts
-#EXTINF:-1 group-title="Abertos" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/record.png",Record SP
+#EXTINF:-1 group-title="Abertos" tvg-id="record.minas.br" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/record.png",RecordTV
 http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/14566.ts
 
 
 -------------------------------Infantis
 
-#EXTINF:-1 group-title="Infantis" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/boomerang.png",Boomerang HD ³
+#EXTINF:-1 group-title="Infantis" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/boomerang.png",Boomerang
 http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/14418.ts
-#EXTINF:-1 group-title="Infantis" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/cartoonnetwork.png",Cartoon HD ³
+#EXTINF:-1 group-title="Infantis" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/cartoonnetwork.png",Cartoon Network
 http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/14417.ts
-#EXTINF:-1 group-title="Infantis" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/discoveykids.png",Discovery Kids HD ³
+#EXTINF:-1 group-title="Infantis" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/discoveykids.png",Discovery Kids
 http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/14415.ts
-#EXTINF:-1 group-title="Infantis" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/disneychannel.png",Disney Channel HD ³
+#EXTINF:-1 group-title="Infantis" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/disneychannel.png",Disney Channel
 http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/14413.ts
-#EXTINF:-1 group-title="Infantis" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/disneyjr.png",Disney Jr
+#EXTINF:-1 group-title="Infantis" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/disneyjr.png",Disney Junior
 http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/14414.ts
 #EXTINF:-1 group-title="Infantis" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/disneyxd.png",Disney XD
 http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/48567.ts
 #EXTINF:-1 group-title="Infantis" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/gloob.png",Gloob
 http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/14420.ts
-#EXTINF:-1 group-title="Infantis" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/nickjr.png",Nick Jr
+#EXTINF:-1 group-title="Infantis" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/nickjr.png",Nick Jr.
 http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/14412.ts
 #EXTINF:-1 group-title="Infantis" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/nick.png",Nickelodeon
 http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/14411.ts
@@ -58,32 +57,32 @@ http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/15214.ts
 http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/14564.ts
 
 -------------------------------Filmes e Series
-#EXTINF:-1 group-title="Filmes e Series" tvg-id="star.br" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/starchannel.png",STAR Channel
+#EXTINF:-1 group-title="Filmes e Series" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/starchannel.png",Star Channel
 http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/14379.ts
-#EXTINF:-1 group-title="Filmes e Series" tvg-id="star.br" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/starhits.png",STAR Hits
+#EXTINF:-1 group-title="Filmes e Series" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/starhits.png",Star Hits
 http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/14377.ts
-#EXTINF:-1 group-title="Filmes e Series" tvg-id="amc.br" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/cinemax.png",Cinemax HD ³
+#EXTINF:-1 group-title="Filmes e Series" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/cinemax.png",Cinemax
 http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/14396.ts
-#EXTINF:-1 group-title="Filmes e Series" tvg-id="Telecine Premium HD" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/tcpremium.png",Telecine Premium HD ³
+#EXTINF:-1 group-title="Filmes e Series" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/tcpremium.png",Telecine Premium
 http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/14383.ts
 
 -------------------------------Documentarios
-#EXTINF:-1 group-title="Documentarios" tvg-id="discovery.br" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/discoverychannel.png",Discovery Channel 2
+#EXTINF:-1 group-title="Documentarios" tvg-id="discovery.br" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/discoverychannel.png",Discovery Channel
 http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ//14432.ts
 -------------------------------Variedades
 
 -------------------------------Musica e Entreterimento
 
 -------------------------------Mais Canais
-#EXTINF:-1 group-title="Mais Canais" tvg-id="plus.globosat.br" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/maisglobo.png",MAIS GLOBOSAT
+#EXTINF:-1 group-title="Mais Canais" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/maisglobo.png",Mais Na Tela
 http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/14557.ts
-#EXTINF:-1 group-title="Mais Canais" tvg-id="arte.1.br" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/arte1.png",ARTE1
+#EXTINF:-1 group-title="Mais Canais" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/arte1.png",Arte 1
 http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/14559.ts
-#EXTINF:-1 group-title="Mais Canais" tvg-id="curta.br" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/curta.png",CURTA HD
+#EXTINF:-1 group-title="Mais Canais" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/curta.png",Curta!
 http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/14561.ts
-#EXTINF:-1 group-title="Mais Canais" tvg-id="cancao.nova.br" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/cancaonova.png",CANÇÃO NOVA
+#EXTINF:-1 group-title="Mais Canais" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/cancaonova.png",Cancao Nova
 http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/14972.ts 
-#EXTINF:-1 group-title="Mais Canais" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/aparecida.png",TV Aparecida HD
+#EXTINF:-1 group-title="Mais Canais" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/aparecida.png",TV Aparecida
 http://massud.homelinux.com:80/live/jYdE5XLrcreBx8Zt/eL3GJ32qzezCc4DJ/15065.ts 
 
 -------------------------------Adultos
